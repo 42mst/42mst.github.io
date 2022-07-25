@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://42mst.github.io/posts/welcome/</loc>
+<lastmod>2022-07-25T16:22:57+02:00</lastmod>
+</url>
+<url>
+<loc>https://42mst.github.io/categories/</loc>
+<lastmod>2022-07-25T16:23:24+02:00</lastmod>
+</url>
+<url>
+<loc>https://42mst.github.io/tags/</loc>
+<lastmod>2022-07-25T16:23:24+02:00</lastmod>
+</url>
+<url>
+<loc>https://42mst.github.io/archives/</loc>
+<lastmod>2022-07-25T16:23:24+02:00</lastmod>
+</url>
+<url>
+<loc>https://42mst.github.io/about/</loc>
+<lastmod>2022-07-25T16:23:24+02:00</lastmod>
+</url>
+<url>
+<loc>https://42mst.github.io/</loc>
+</url>
+<url>
+<loc>https://42mst.github.io/tags/hello/</loc>
+</url>
+<url>
+<loc>https://42mst.github.io/categories/introduction/</loc>
+</url>
+</urlset>
